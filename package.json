@@ -14,14 +14,10 @@
     "redux-thunk": "^2.4.2",
     "web-vitals": "^2.1.4"
   },
-<<<<<<< HEAD
   "homepage": "https://adilkhan-git.github.io/cards/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-=======
-  "scripts": {
->>>>>>> 9e22baf335242fea78c710253776ade72071f6c9
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,11 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-=======
->>>>>>> 9e22baf335242fea78c710253776ade72071f6c9
   }
 }
